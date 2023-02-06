@@ -8,5 +8,8 @@
 #### 1. Start back-end server: Open 'backend/src/main/resources/application.yml', change the password of MySQL database accordingly, create a database named 'qing'  
 #### 2. Run 'backend/src/main/java/com/qingge/springboot/SpringbootApplication.java' to start the back-end server.
 #### 3. Make sure Node.js has been installed at your local computer.  
-#### 4. $env:NODE_OPTIONS="--openssl-legacy-provider" 
+#### 4. Open 'frontend/vue/' separately from back-end files, then open the ternimal and input following commands:
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm run serve
+
 
