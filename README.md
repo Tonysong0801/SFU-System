@@ -1,7 +1,7 @@
 # SFU Information Management System
 
  
-### To see the screenshots of the website, please check 'screenshots.docx'  
+### To see the screenshots of the website, please check 'screenshots.pdf'  
 
 ## To run the project, please follow the following steps:  
 #### 0. Make sure Redis has been installed and started at your local computer.  
